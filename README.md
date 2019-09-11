@@ -1,6 +1,6 @@
 # NLP
 
-/example/sif_embedding.py: run this file to get the embedding
+/...example/sif_embedding.py: run this file to get the embedding
 
 auxiliary_data:
 
