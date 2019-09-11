@@ -1,5 +1,7 @@
 # NLP
 
+/example/sif_embedding.py: run this file to get the embedding
+
 auxiliary_data:
 
 The weight for each words
@@ -24,4 +26,4 @@ example:
 ala.py: used to get the model for predict rare-word embedding
 
 
-sif_embedding.py: run this file
+
